@@ -1,38 +1,9 @@
 * {
   box-sizing: border-box;
 }
-/* :root {
-  --dark-3: #011b33;
-  --body-font: Poppins, sans-serif;
-  --white: white;
-  --heading-font: Airstrike, sans-serif;
-  --transparent: transparent;
-  --dark: #011b33;
-  --sun: 35vw;
-  --red3: #f40272;
-  --red2: #ff9868;
-  --red1: #ff1e8d;
-  --white-2: white;
-  --dark2: #641b42;
-  --btn2: #5ff7ff;
-  --red: #e5014f;
-  --btn1: #652dff;
-  --black-faded: rgba(0, 0, 0, 0.4);
-  --gray2: #d8d8d8;
-  --black: #000;
-  --black-2: black;
-  --gray: #7d7d7d;
-  --bgimg: #d9d9d9;
-  --btn: #644561;
-  --vwunit: 0.0520833vw;
-} */
-
-/* body {
-  margin: 0;
-} */
 .map_box {
   width: 100%;
-  height: 100vh;
+  height: 100%;
 }
 .map_box .gm-style .gm-style-iw-c {
   background-color: var(--white);
