@@ -72,17 +72,20 @@
   background: var(--white) !important;
 }
 .map_popup {
-  padding: 1vw 1.5vw;
-  max-width: 20vw;
+  padding: 1.7vw 1.6vw;
+  max-width: 22vw;
   text-align: center;
+  width: 100%;
 }
 .map_title {
-  font-size: 1.1vw;
-  margin: 0 0 1vw;
+  font-size: 2vw;
+  margin: 0 0 0.6vw;
   color: #000;
-  font-family: var(--heading-font);
+  font-family: var(--body-font);
 }
 p.map_address {
-  font-size: 16px;
-  font-family: var(--body-font);
+  font-size: 14px;
+  font-family: var(--heading-font);
+  color: var(--black);
+  font-weight: 400;
 }
