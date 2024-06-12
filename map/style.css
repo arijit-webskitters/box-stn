@@ -69,7 +69,7 @@
   height: 100% !important;
 }
 .map_box .gm-style-iw-chr button:hover span {
-  background: var(--dark) !important;
+  background: var(--white) !important;
 }
 .map_popup {
   padding: 1vw 1.5vw;
