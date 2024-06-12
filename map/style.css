@@ -72,14 +72,14 @@
   background: var(--white) !important;
 }
 .map_popup {
-  padding: 1.7vw 1.6vw;
-  max-width: 22vw;
+  padding: 21px 30px;
+  max-width: 310px;
   text-align: center;
   width: 100%;
 }
 .map_title {
-  font-size: 2vw;
-  margin: 0 0 0.6vw;
+  font-size: 26px;
+  margin: 0 0 10px;
   color: #000;
   font-family: var(--body-font);
 }
