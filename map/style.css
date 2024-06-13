@@ -67,3 +67,37 @@ p.map_address {
 .gm-style .gm-style-iw-tc::after {
   background: var(--black);
 }
+
+
+.map_box .gm-style-iw-d .address {
+  background-color: #000;
+  padding: 10px 70px;
+  min-width: 320px;
+}
+.map_box .gm-style-iw-d .address > *:first-child {
+  font-size: 26px;
+  margin: 0 0 10px;
+  color: var(--white);
+  font-family: var(--body-font);
+}
+.map_box .gm-style-iw-d .address > * {
+  background-color: #000;
+  text-align: center;
+  width: 100% !important;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-family: var(--heading-font);
+  color: var(--white);
+  font-weight: 400;
+}
+.map_box .gm-style-iw-d .view-link {
+  color: #01aefa;
+  text-align: center;
+  padding: 8px;
+  background-color: #000;
+}
+.map_box .gm-style-iw-d .view-link a:link {
+  text-decoration: none;
+  color: #01aefa;
+  background-color: #000;
+}
