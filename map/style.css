@@ -6,8 +6,8 @@
   height: 100%;
 }
 .map_box .gm-style .gm-style-iw-c {
-  background-color: var(--white);
-  color: var(--dark);
+  background-color: var(--black);
+  color: var(--white);
   padding: 0;
   overflow: visible !important;
   border-radius: 0;
@@ -51,12 +51,12 @@
 .map_title {
   font-size: 26px;
   margin: 0 0 10px;
-  color: #000;
+  color: var(--white);
   font-family: var(--body-font);
 }
 p.map_address {
   font-size: 14px;
   font-family: var(--heading-font);
-  color: var(--black);
+  color: var(--white);
   font-weight: 400;
 }
