@@ -11,7 +11,7 @@ if (customMapContainer != undefined) {
             zoom: 14,
             description:
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tincidunt interdum vestibulum. Integer nec nisl neque. Proin venenatis facilisis metus, sed semper augue blandit in.",
-            img: "https://picsum.photos/200/200",
+            img: "https://cdn.prod.website-files.com/66616767a695f8e4098a41de/66616f0ecba22320349907b7_logo.svg",
         },
     ];
 
@@ -345,7 +345,7 @@ if (customMapContainer != undefined) {
             let contentString = `
     <div id="map_popup_${data.id}" class="map_popup">
       <div class="map_content_inner">
-      <h3 class="map_title">${data.title}</h3>
+      <div class="map_brand_logo"><img src="${data.img}" alt="BOX.STN logo"></div>
       <p class="map_address">${data.address}</p>
       </div>
     </div>
