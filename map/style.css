@@ -102,3 +102,11 @@ p.map_address {
   color: #01aefa;
   background-color: #000;
 }
+.map_brand_logo {
+  display: inline-block;
+  margin: 0 auto 12px;
+  max-width: 130px;
+}
+.map_brand_logo img {
+  max-width: 100%;
+}
