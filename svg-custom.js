@@ -1887,29 +1887,6 @@ let svgPath = document.getElementById("all_path");
                 </g>
             </g>
         </svg>
-    </div>
-
-
-    <style>
-        body {
-            margin: 0;
-            background: #000;
-        }
-
-        * {
-            box-sizing: border-box;
-        }
-
-        .map-div {
-            text-align: center;
-        }
-
-        .map-div svg {
-            height: 100%;
-            width: auto;
-            max-width: 100%;
-        }
-    </style>
     `;
       setTimeout(() => {
 
