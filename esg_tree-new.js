@@ -494,6 +494,7 @@ if (svgTreePath != undefined) {
         })
 
         let treeSvgTl = gsap.timeline({ defaults: { ease: "none" } });
+        treeSvgTl.set(svgTreePath,{opacity:1})
         svgTreePath.querySelectorAll('path.main-branch').forEach(e => {
             treeSvgTl.to(e, {
                 "stroke-dashoffset": 0, opacity: 1, duration: 1.8, delay: 0,
