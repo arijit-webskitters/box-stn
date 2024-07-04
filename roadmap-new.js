@@ -813,11 +813,11 @@ if (svgPath != undefined) {
                   <g id="Circuit_Board" data-name="Circuit Board">
                     <g class="box-stn-img">
                         <rect class="cls-73" x="878.36" y="903.77" width="127" height="127" data-svg-origin="1172.8949890136719 1184.3000183105469" transform="matrix(1,0,0,1,0,0)" style="translate: none;rotate: none;scale: none;transform-origin: 0px 0px;opacity: 1;stroke-width: 2px;stroke: #fff;"></rect>
-                        <image href="box-stn.png" x="879.36" y="904.77" height="125" width="125"></image>
+                        <image href="https://arijit-webskitters.github.io/box-stn/box-stn.png" x="879.36" y="904.77" height="125" width="125"></image>
                     </g>
                     <g class="mdl-box">
                         <rect class="cls-73" x="1018.36" y="1049.77" width="309.07" height="309.06"/>
-                        <image href="mdl-img.png" x="1040.36" y="1164.77" width="267" height="85"></image>
+                        <image href="https://arijit-webskitters.github.io/box-stn/mdl-img.png" x="1040.36" y="1164.77" width="267" height="85"></image>
                     </g>
                     <g class="mdl-box-line">
                       <polyline class="cls-16" points="1321.34 1350.57 1321.34 1351.26 1320.65 1351.26"/>
